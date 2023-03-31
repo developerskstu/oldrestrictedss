@@ -12,12 +12,12 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = 24229815
-API_HASH = "6d03e392b1200580a85ef243f83a48a5"
-BOT_TOKEN = "5818737155:AAFgEZ3p6PGaHmKqW3QcLEotCb_EsDba9xg"
-SESSION = "AQBrKY_UCC6VPNfqbq3_0-22vzbMlt8GruFkTuEgDdFVtwW42z7TpFanIooeoLfqT9MUEPr4MRWIvpfRDQJRbXGxeuxm0szlX4N99ERn0DAjyBLsrjKngsAOgtzyo2QiY2KRYagGQHiLwUacAcve4Aksi49haczFB2Gc9cxIyYSgtTzCKaiwinlevyls5nfki7556sg5dZDwzvAa-pNsYYtWlNNL0oEEhbDr534yPLRZYHdJed0lbWiKFo-AhdBw4IFwQRkJLpu9oNGNlBfI87PYIkn6EzDQeZbK5dQrXTn9i7hnel2r2HDunS0q16P0sKM_tFC8tZlgEnt9a0eS5xLXAAAAAUk7U9cA"
-FORCESUB = "tested_botss"
-AUTH = 5523592151
+API_ID = 25733211
+API_HASH = "e0d2f6d53490d4a6ce5fecce2dd8e25b"
+BOT_TOKEN = "6068536413:AAHGo7Y_17NSLXN54NfxwkR3gJ_4ahTuVtg"
+SESSION = "AQCpKcQZeDtiezPUack9pnx8sHJCEQqm1vC6x9ZbyJ2tohRGz4qnXayvt0j06XvIoitYet50lVgdZrdRO-86nFzs2YJUkcIto0xD30CUYMOXh8EdPG2VotOLGDpIsHsfEmL1zvk1bePaYVuA7UQAoBwE-HPDNzY2g0tg6TpKXp4R_1oqAZNoTm_7eDtOzM_zUqeX4l-lMBd6Pzfs-x9AJPfw6H53zX07fUKh5W4VMbfw9fY4grk7xa6Xekg0VtJCBfgNrI65hJjr71Yal6D7QhWPyc-dVTYzSrrwfHPQTnTg_sQtgIwHWuIRlGDpg2_Yu_sBnhNqg4AzFrwdOj8UugrqAAAAAUxAXxEA"
+FORCESUB = "ttest_botsss"
+AUTH = 5574254353
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
